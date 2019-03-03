@@ -5,4 +5,4 @@ Open from VS.
 
 Go "App.config".
 
-Change the value of filePath to somewhere else (It can be Desktop or where you clone this whole thing).
+Change the value of filePath to somewhere else (It can be Anywhere, i.e. Desktop or where you clone this whole thing).
