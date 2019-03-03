@@ -1,0 +1,10 @@
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\bin\Debug\RestaurantReviews.exe.config
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\bin\Debug\RestaurantReviews.exe
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\bin\Debug\RestaurantReviews.pdb
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.csprojAssemblyReference.cache
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.Properties.Resources.resources
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.ShabbyBoard.resources
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.csproj.GenerateResource.cache
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.csproj.CoreCompileInputs.cache
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.exe
+C:\Users\dengd\source\repos\RestaurantReviews\RestaurantReviews\obj\Debug\RestaurantReviews.pdb
