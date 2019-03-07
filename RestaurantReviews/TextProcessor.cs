@@ -32,7 +32,7 @@ namespace RestaurantReviews
             {
                 if (line != "")
                 {
-                    string[] cols = line.Split(',');
+                    string[] cols = line.Split('|');
                     Review p = new Review();
                     p.Id = int.Parse(cols[0]);
                     p.Nickname = cols[1];
@@ -49,7 +49,7 @@ namespace RestaurantReviews
             List<string> lines = new List<string>();
             foreach (Review p in models)
             {
-                lines.Add($"{p.Id},{p.Nickname},{p.ReviewContext}");
+                lines.Add($"{p.Id}|{p.Nickname}|{p.ReviewContext}");
             }
             File.WriteAllLines(fileName.FullFilePath(), lines);
         }
